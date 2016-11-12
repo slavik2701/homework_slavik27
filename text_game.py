@@ -1,3 +1,4 @@
+"""min 200 lines of code."""
 # text game
 import random
 print('------------------------------------')

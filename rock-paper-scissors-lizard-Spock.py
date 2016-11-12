@@ -1,3 +1,8 @@
+"""
+https://gist.github.com/jorgeluis11/5475439
+https://github.com/balakirevs/Python-Rice-University/blob/master/Rock-paper-scissors-lizard-Spock.py
+min 200 lines of code.
+"""
 # Rock-paper-scissors-lizard-Spock template
 
 

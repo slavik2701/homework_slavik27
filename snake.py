@@ -1,3 +1,4 @@
+"""https://docs.python.org/3/howto/curses.html"""
 from curses import initscr, curs_set, newwin,endwin,KEY_RIGHT, KEY_LEFT,KEY_DOWN, KEY_UP
 from random import randrange
 initscr()
